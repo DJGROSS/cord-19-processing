@@ -159,7 +159,7 @@ transformers==2.0.0
 #twisted==19.10.0
 typing==3.7.4.1
 unidecode==1.1.1
-urllib3==1.25.7
+urllib3==1.25.8
 w3lib==1.21.0
 warc3-wet==0.2.3
 warcio==1.7.1
