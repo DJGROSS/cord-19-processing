@@ -80,7 +80,7 @@ nbformat==4.4.0
 #ncurses==6.1
 news-please==1.4.24
 newspaper3k==0.2.8
-notebook==6.0.2
+notebook==6.4.1
 packaging==20.3
 pandocfilters==1.4.2
 parsedatetime==2.5
