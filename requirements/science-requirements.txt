@@ -133,7 +133,7 @@ seaborn==0.9.0
 send2trash==1.5.0
 sentencepiece==0.1.85
 service-identity==18.1.0
-setuptools==45.2.0
+setuptools==65.5.1
 six==1.14.0
 smart-open==1.9.0
 soupsieve==1.9.5
